@@ -37,11 +37,11 @@
 
 ## 11. Investigar ¿Qué es el pip y porque lo actualizamos?
 
-**PIP (Python Package Index)**
+#PIP (Python Package Index)
 
 ### Es el sistema de gestión de paquetes estándar para Python. Permite a los desarrolladores y usuarios de Python instalar y gestionar paquetes de software escritos en Python que están disponibles en el Python Package Index (PyPI) y otros repositorios.
 
-# Funciones principales de PIP:
+## Funciones principales de PIP:
 ### Instalación de paquetes: PIP permite instalar paquetes de Python desde PyPI y otros repositorios. Esto facilita agregar nuevas funcionalidades a tus proyectos Python sin tener que desarrollarlas desde cero.
 
 ### Actualización de paquetes: PIP puede actualizar los paquetes instalados a nuevas versiones disponibles en PyPI. Esto es crucial para mantener tus dependencias actualizadas con las últimas características y correcciones de seguridad.
@@ -61,5 +61,8 @@
 
 
 ## 12. Hacer al primer commit de este trabajo y unirlo al repositorio remoto.
+
+![Captura Punto 11 y 12](https://github.com/MerAtim/FinalPython/assets/127444671/fdd3bad8-03de-4b56-b7cf-a2be327e442d)
+
 
 ## 13. Enviar el enlace del repositorio remoto donde tiene que tener un README.md con todos los detalles de lo que les fui mostrando en comandos, y las respuesta del punto 11 de más arriba.
